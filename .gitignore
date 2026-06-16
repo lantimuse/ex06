@@ -1,0 +1,22 @@
+# Revit and BIM outputs
+*.rvt
+*.rfa
+*.rte
+*.rft
+*.[0-9][0-9][0-9][0-9].rvt
+journals/
+exports/
+
+# Media
+*.mp4
+*.png
+*.jpg
+
+# Local and machine specific
+settings.local.json
+.vscode/
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
