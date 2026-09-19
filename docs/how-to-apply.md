@@ -8,3 +8,10 @@
    issue. It is faster than reading the schedule.
 4. Anything that cannot comply gets an entry in the exceptions list, not a
    quiet workaround.
+
+## Before every issue
+
+- [ ] Schedule exported from the current model, not last week's
+- [ ] `check_names.py` run, exit code recorded
+- [ ] Exceptions list reviewed and dated
+- [ ] Anything failing a gate either fixed or logged, never both ignored
