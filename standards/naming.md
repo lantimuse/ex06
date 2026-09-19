@@ -6,7 +6,7 @@
 |---|---|
 | `DR_` | Doors |
 | `WN_` | Windows |
-| `CW_` | Curtain wall panels |
+| `CWP_` | Curtain wall panels |
 | `RL_` | Railings |
 | `GN_` | Generic model |
 
