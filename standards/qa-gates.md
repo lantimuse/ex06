@@ -15,3 +15,7 @@
 ## Gate 4 — release
 - [ ] Purged, subcategories assigned
 - [ ] Build log entry written
+
+## Gate 5 — issue record
+- [ ] Issue sheet updated with the family versions included
+- [ ] Superseded versions archived, not deleted
